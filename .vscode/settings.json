@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\lavis\\Downloads\\Compressed\\selenium-java-4.16.1/**/*.jar",
+    "d:\\Personal\\1_Study\\CloudEQ\\Training\\Sprint_8\\Selenium\\drivers\\selenium-java-4.16.1/**/*.jar"
+  ]
+}
